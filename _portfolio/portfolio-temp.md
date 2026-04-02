@@ -1,6 +1,6 @@
 ---
-title: "Title of Project"
-excerpt: "Short summary of project"
+title: "Erielle Seigel"
+excerpt: "The portfolio of Erielle Seigel"
 
 header:
   overlay_image: 
