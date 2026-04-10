@@ -19,3 +19,4 @@ The main idea after this game is remember the importance of mental health and kn
 
 ### Resources
 - [Download on itch.io here](https://arthemy.itch.io/echo-g4c-jam)
+- [Artstation to see my art for the project](https://www.artstation.com/artwork/XJPKay)
