@@ -1,26 +1,24 @@
 ---
-title: "Erielle Seigel"
-excerpt: "The portfolio of Erielle Seigel"
+title: "AEGIS"
+excerpt: "Play as a Spartan warrior cursed by Olympus, trapped in an endless cycle of divine punishment. Armed with nothing but a living shield, you must survive whatever the gods unleash."
 
 header:
   overlay_image: 
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Short sidebar summary of project requirements/needs."
-project_role: "Your role on the project"
-project_tools: "list tools, separate with commas"
-project_date: "Date the project was completed"
+project_brief: "Single-Player FPS type game"
+project_role: "Art director"
+project_tools: "Unreal Engine, Procreate"
+project_date: "04/08/2026"
 ---
-## Heading 
-Written deliverables go here
+## About 
+The enemies are ruthless as they are unyielding, but you are equally so.
+You are fast. You are powerful. You are relentless. Move with precision. Strike with force. Dominate through momentum.
 
 ## External Assets & Libraries
 - List out external assets and licences 
 ---
 
 ### Resources
-- List links to resources on the project, for example
-- Link to Github repo for project
-- Link to piece on ArtStation
-- Link to Itch.io game project was used for
+- [Download on itch.io here] https://jaydenyounger.itch.io/aegis
