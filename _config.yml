@@ -2,14 +2,14 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Site Title
-email: Your email
+title: Erielle Seigel
+email: erielleseigel2023@gmail.com
 description: >-
-  short description of the site
+  Personal website and portfolio of Erielle Seigel. Freelance Artist.
 
 # Branding & Social
 twitter_username: 
-github_username:  
+github_username: Erielle Seigel  
 
 # -----------------------------------------------------------------------------
 # 🛠️ Build Settings
@@ -102,22 +102,22 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "Your Name"
-  avatar : "/assets/images/blank-profile-picture"
-  bio    : "short bio line"
+  name   : "Erielle Seigel"
+  avatar : "/assets/images/Self Portrait.png"
+  bio    : "Freelance 2D artist and character designer"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/erielle-seigel-b1a443236/?skipRedirect=true"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"  
+      url: "https://github.com/ErielleSeigel/"  
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
-      url: "https://itch.io"
+      url: "https://erielle-seigel.itch.io/"
     - label: "ArtStation"
       icon: "fab fa-fw fa-artstation"
-      url: "https://www.artstation.com/"
+      url: "https://www.artstation.com/erielleseigel"
 
 # -----------------------------------------------------------------------------
 # 🚫 Exclusions
