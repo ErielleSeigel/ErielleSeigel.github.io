@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 
 feature_row:
-  - image_path: /assets/images/AEGIS.png
+  - image_path: /assets/images/AEGIS
     alt: "Alternative text for image"
     title: "AEGIS"
     excerpt: "Play as a Spartan warrior cursed by Olympus, trapped in an endless cycle of divine punishment. Armed with nothing but a living shield, you must survive whatever the gods unleash."
@@ -11,7 +11,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/Soul Sync.png
+  - image_path: /assets/images/Soul Sync
     alt: "Alternative text for image"
     title: "Soul Sync"
     excerpt: "Soulsync is a PvE multiplayer roguelike where you and three friends take the helm to traverse treacherous lands and face uncertain odds. Set in an advanced sci-fi fantasy world, the land is controlled and corrupted by the influence of Mordred."
