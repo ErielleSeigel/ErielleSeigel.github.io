@@ -15,7 +15,7 @@ feature_row:
     alt: "Soul Sync"
     title: "Soul Sync"
     excerpt: "Soulsync is a PvE multiplayer roguelike where you and three friends take the helm to traverse treacherous lands and face uncertain odds. Set in an advanced sci-fi fantasy world, the land is controlled and corrupted by the influence of Mordred."
-    url: "/portfolio/SoulSync/"
+    url: "/portfolio/Soul Sync/"
     btn_label: "View"
     btn_class: "btn--primary"
 
