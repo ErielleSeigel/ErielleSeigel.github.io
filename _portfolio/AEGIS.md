@@ -18,5 +18,16 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 
 ---
 
+## My Work
+  image_path: /assets/images/Claw.png
+  image_path: /assets/images/Clock.png
+  image_path: /assets/images/Power.png
+  image_path: /assets/images/Pray.png
+  image_path: /assets/images/Scale.png
+  image_path: /assets/images/Shoe.png
+  image_path: /assets/images/Soul.png
+
+---
+
 ### Resources
 - [Download on itch.io here](https://jaydenyounger.itch.io/aegis)
