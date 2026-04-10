@@ -16,8 +16,6 @@ project_date: "04/08/2026"
 The enemies are ruthless as they are unyielding, but you are equally so.
 You are fast. You are powerful. You are relentless. Move with precision. Strike with force. Dominate through momentum.
 
-## External Assets & Libraries
-- List out external assets and licences 
 ---
 
 ### Resources
