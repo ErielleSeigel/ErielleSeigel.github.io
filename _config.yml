@@ -16,7 +16,7 @@ github_username: Erielle Seigel
 # -----------------------------------------------------------------------------
 
 baseurl: "" 
-url: "https://yourusername.github.io"
+url: "https://erielleseigel.github.io"
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
@@ -40,7 +40,7 @@ words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Site Title"
+masthead_title: "Main Page"
 
 # Defaults for Posts and Pages
 defaults:
