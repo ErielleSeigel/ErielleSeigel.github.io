@@ -25,3 +25,4 @@ project_date: "Coming Soon"
 
 ### Resources
 - [Download on itch.io here](https://rjp5546.itch.io/soulsync)
+- [Artstation to see my art for the project](https://www.artstation.com/erielleseigel)
