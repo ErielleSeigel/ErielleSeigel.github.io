@@ -18,6 +18,14 @@ feature_row:
     url: "/portfolio/SoulSync/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/Echo
+    alt: "Alternative text for image"
+    title: "Echo"
+    excerpt: "Use your echolocation as the main mechanic to find the NPCs and get their support to bring back color to your world."
+    url: "/portfolio/Echo/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 
