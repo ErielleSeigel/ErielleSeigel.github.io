@@ -19,13 +19,11 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 ---
 
 ## My Work
-  image_path: /assets/images/Claw.png
-  image_path: /assets/images/Clock.png
-  image_path: /assets/images/Power.png
-  image_path: /assets/images/Pray.png
-  image_path: /assets/images/Scale.png
-  image_path: /assets/images/Shoe.png
-  image_path: /assets/images/Soul.png
+Beyond finding art assets, I also designed a few upgrade pieces. Here they are:
+
+<p align="center">
+  <img src="/assets/images/Claw.png" alt="">
+</p>
 
 ---
 
