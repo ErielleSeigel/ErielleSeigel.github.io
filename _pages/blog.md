@@ -9,4 +9,4 @@ header:
   overlay_image: 
 ---
 
-Page content goes here ...
+Hello! I made a youtube tutorial for procreate recently! Check it out here: [Talk Sprite Tutorial](https://youtu.be/EVE7pa9i_Po?si=e6JqPAj6Dx50XNuj)
