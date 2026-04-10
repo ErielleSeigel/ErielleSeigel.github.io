@@ -24,6 +24,24 @@ Beyond finding art assets, I also designed a few upgrade pieces. Here they are:
 <p align="center">
   <img src="/assets/images/Claw.png" alt="">
 </p>
+<p align="center">
+  <img src="/assets/images/Clock.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Power.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Pray.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Scale.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Shoe.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Soul.png" alt="">
+</p>
 
 ---
 

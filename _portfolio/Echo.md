@@ -3,7 +3,7 @@ title: "Echo"
 excerpt: "Use your echolocation as the main mechanic to find the NPCs and get their support to bring back color to your world."
 
 header:
-  overlay_image: 
+  overlay_image: /assets/images/Echo.png
   teaser: 
   overlay_filter: 0.5
 
