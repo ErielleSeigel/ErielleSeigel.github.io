@@ -19,4 +19,4 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 ---
 
 ### Resources
-- [Download on itch.io here] https://jaydenyounger.itch.io/aegis
+- [Download on itch.io here](https://jaydenyounger.itch.io/aegis)

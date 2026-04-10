@@ -25,4 +25,4 @@ project_date: "Coming Soon"
 ---
 
 ### Resources
-- [Download Soul Sync here] https://rjp5546.itch.io/soulsync
+- [Download on itch.io here](https://rjp5546.itch.io/soulsync)
