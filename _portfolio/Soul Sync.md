@@ -21,7 +21,6 @@ project_date: "Coming Soon"
 
    Their path leads to an ancient forge swarmed by hostile company subordinates. At its heart, they find the architect of their demise: a company board member who intends to weaponize the party’s curse.  After revealing the captive former leader, the board member attempts a final execution to close the project. Still, the party triumphs in the end, escaping the company’s grasp and reuniting with their imprisoned comrade.
 
-
 ---
 
 ### Resources
