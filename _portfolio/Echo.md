@@ -4,7 +4,7 @@ excerpt: "Use your echolocation as the main mechanic to find the NPCs and get th
 
 header:
   overlay_image: /assets/images/Echo.png
-  teaser: 
+  teaser: /assets/images/Echo.png
   overlay_filter: 0.5
 
 project_brief: "2D Platformer Adventure"

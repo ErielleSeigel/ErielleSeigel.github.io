@@ -103,7 +103,7 @@ collections:
 
 author:
   name   : "Erielle Seigel"
-  avatar : "/assets/images/Self Portrait.png"
+  avatar : /assets/images/Self Portrait.png
   bio    : "Freelance 2D artist and character designer"
   links:
     - label: "LinkedIn"
