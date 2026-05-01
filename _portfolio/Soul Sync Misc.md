@@ -1,4 +1,4 @@
-title: "Soul Sync Main Cast"
+title: "Soul Sync Additional Designs"
 excerpt: "Soulsync is a PvE multiplayer roguelike where you and three friends take the helm to traverse treacherous lands and face uncertain odds. Set in an advanced sci-fi fantasy world, the land is controlled and corrupted by the influence of Mordred."
 
 header:
@@ -23,28 +23,25 @@ project_date: "Coming Soon"
 ---
 
 ## My Work
-This is a project that is being worked on as a Senior Project for the senior class of the University of Tulsa CSG Program. The concept of the game is a rogue-like multiplayer game. The style of the game was voted to be stylized, and as such I was tasked with creating the concepts for the characters that would be featured in the game. Here are some examples of designs I created for the main cast. You can read more about the details of each one individually on my ArtStation linked below.
+This is a project that is being worked on as a Senior Project for the senior class of the University of Tulsa CSG Program. The concept of the game is a rogue-like multiplayer game. The style of the game was voted to be stylized, and as such I was tasked with creating the concepts for the characters that would be featured in the game. These are extra npcs and enemy characters that I designed for the project. More about each individual character and design can be found below on my ArtStation.
 
 <p align="center">
-  <img src="/assets/images/ProtoPerc1.png" alt="">
+  <img src="/assets/images/Hero.jpg" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/.ProtoAstrid" alt="">
+  <img src="/assets/images/WolfBear.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/ProtoFelix.png" alt="">
+  <img src="/assets/images/Fairy.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Cast.png" alt="">
+  <img src="/assets/images/FairyKing.jpg" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Perci.png" alt="">
+  <img src="/assets/images/Grunt.jpg" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Felix.png" alt="">
-</p>
-<p align="center">
-  <img src="/assets/images/Ronan.png" alt="">
+  <img src="/assets/images/CEO.jpg" alt="">
 </p>
 
 ---
