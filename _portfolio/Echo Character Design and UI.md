@@ -1,6 +1,6 @@
 ---
 title: "Echo Art and UI Designs."
-excerpt: "Use your echolocation as the main mechanic to find the NPCs and get their support to bring back color to your world. Here is the art I worked on!"
+excerpt: "Here is the art and UI I created for Echo!"
 
 header:
   overlay_image: /assets/images/samlogo.jpg
