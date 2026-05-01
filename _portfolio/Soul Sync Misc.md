@@ -42,7 +42,7 @@ This is a project that is being worked on as a Senior Project for the senior cla
   <img src="/assets/images/CEO.jpg" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/WolfBear.png" alt="">
+  <img src="/assets/images/WolfBear.PNG" alt="">
 </p>
 
 ---

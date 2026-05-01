@@ -42,63 +42,63 @@ This is a project that is being worked on as a Senior Project for the senior cla
   <img src="/assets/images/Settings Sliders.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Sword.png" alt="">
+  <img src="/assets/images/Sword.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Dash.png" alt="">
+  <img src="/assets/images/Dash.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Shield.png" alt="">
+  <img src="/assets/images/Shield.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Inspire.png" alt="">
+  <img src="/assets/images/Inspire.PNG" alt="">
 </p>
-  <img src="/assets/images/Hammer.png" alt="">
-</p>
-<p align="center">
-  <img src="/assets/images/Rocket.png" alt="">
+  <img src="/assets/images/Hammer.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Spin.png" alt="">
+  <img src="/assets/images/Rocket.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Dance.png" alt="">
+  <img src="/assets/images/Spin.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Sickle.png" alt="">
+  <img src="/assets/images/Dance.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/BounceDash.png" alt="">
+  <img src="/assets/images/Sickle.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Stance.png" alt="">
+  <img src="/assets/images/BounceDash.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Backstab.png" alt="">
+  <img src="/assets/images/Stance.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Staff.png" alt="">
+  <img src="/assets/images/Backstab.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Fish.png" alt="">
+  <img src="/assets/images/Staff.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Spider.png" alt="">
+  <img src="/assets/images/Fish.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Tiger.png" alt="">
+  <img src="/assets/images/Spider.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Arrow.png" alt="">
+  <img src="/assets/images/Tiger.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Swing.png" alt="">
+  <img src="/assets/images/Arrow.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Chain.png" alt="">
+  <img src="/assets/images/Swing.PNG" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Laser.png" alt="">
+  <img src="/assets/images/Chain.PNG" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Laser.PNG" alt="">
 </p>
 
 
