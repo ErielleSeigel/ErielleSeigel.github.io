@@ -23,28 +23,28 @@ project_date: "Coming Soon"
 ---
 
 ## My Work
-For this project, I was the lead character designer. Here are the main characters that I designed.
+For this project, I was the lead character designer. Here are the main characters that I designed. You can read more about them on the link to my ArtStation below.
 
 <p align="center">
-  <img src="/assets/images/Claw.png" alt="">
+  <img src="/assets/images/ProtoPerc1.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Clock.png" alt="">
+  <img src="/assets/images/.ProtoAstrid" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Power.png" alt="">
+  <img src="/assets/images/ProtoFelix.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Pray.png" alt="">
+  <img src="/assets/images/Cast.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Scale.png" alt="">
+  <img src="/assets/images/Perci.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Shoe.png" alt="">
+  <img src="/assets/images/Felix.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/Soul.png" alt="">
+  <img src="/assets/images/Ronan.png" alt="">
 </p>
 
 ---
