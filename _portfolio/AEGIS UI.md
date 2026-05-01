@@ -3,8 +3,8 @@ title: "AEGIS"
 excerpt: "Play as a Spartan warrior cursed by Olympus, trapped in an endless cycle of divine punishment. Armed with nothing but a living shield, you must survive whatever the gods unleash."
 
 header:
-  overlay_image: /assets/images/AEGIS.png
-  teaser: /assets/images/AEGIS.png
+  overlay_image: /assets/images/Clock.png
+  teaser: /assets/images/Clock.png
   overlay_filter: 0.5
 
 project_brief: "Single-Player FPS type game"
