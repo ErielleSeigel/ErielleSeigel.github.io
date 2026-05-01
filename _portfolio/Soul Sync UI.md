@@ -3,8 +3,8 @@ title: "Soul Sync UI"
 excerpt: "Soulsync is a PvE multiplayer roguelike where you and three friends take the helm to traverse treacherous lands and face uncertain odds. Set in an advanced sci-fi fantasy world, the land is controlled and corrupted by the influence of Mordred. Here is the UI I worked on."
 
 header:
-  overlay_image: /assets/images/Inspire.png
-  teaser: /assets/images/Inspire.png
+  overlay_image: /assets/images/Inspire.PNG
+  teaser: /assets/images/Inspire.PNG
   overlay_filter: 0.5
 
 project_brief: "Multiplayer Rogue-like"
