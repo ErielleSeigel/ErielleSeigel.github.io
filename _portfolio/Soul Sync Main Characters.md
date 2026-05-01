@@ -30,7 +30,7 @@ This is a project that is being worked on as a Senior Project for the senior cla
   <img src="/assets/images/ProtoPerc1.png" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/.ProtoAstrid" alt="">
+  <img src="/assets/images/ProtoAstrid.png" alt="">
 </p>
 <p align="center">
   <img src="/assets/images/ProtoFelix.png" alt="">
