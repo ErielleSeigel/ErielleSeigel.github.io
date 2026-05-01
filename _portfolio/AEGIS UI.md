@@ -19,7 +19,29 @@ You are fast. You are powerful. You are relentless. Move with precision. Strike 
 ---
 
 ## My Work
-I was the art director for this project! The design of the world was decided by me. Check out the gdc on the website to learn more.
+Beyond finding art assets, I also designed a few upgrade pieces. Here they are:
+
+<p align="center">
+  <img src="/assets/images/Claw.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Clock.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Power.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Pray.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Scale.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Shoe.png" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/Soul.png" alt="">
+</p>
 ---
 
 ### Resources
