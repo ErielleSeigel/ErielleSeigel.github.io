@@ -26,6 +26,14 @@ feature_row:
     url: "/portfolio/Echo/"
     btn_label: "View"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/Laser Shapes.png
+    alt: "Alternative text for image"
+    title: "Laser Shapes"
+    excerpt: "Survive the hoard of oncoming shapes! See how high you can take your score!"
+    url: "/portfolio/Laser Shapes/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 
