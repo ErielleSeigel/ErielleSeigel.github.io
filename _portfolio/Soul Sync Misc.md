@@ -1,6 +1,6 @@
 ---
 title: "Soul Sync Additional Designs"
-excerpt: "Soulsync is a PvE multiplayer roguelike where you and three friends take the helm to traverse treacherous lands and face uncertain odds. Set in an advanced sci-fi fantasy world, the land is controlled and corrupted by the influence of Mordred. Here are some additional designs that I created."
+excerpt: "Here are some additional designs that I created for Soul Sync."
 
 header:
   overlay_image: /assets/images/Hero.jpg
