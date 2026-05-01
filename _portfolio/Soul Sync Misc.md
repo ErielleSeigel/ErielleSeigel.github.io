@@ -30,9 +30,6 @@ This is a project that is being worked on as a Senior Project for the senior cla
   <img src="/assets/images/Hero.jpg" alt="">
 </p>
 <p align="center">
-  <img src="/assets/images/WolfBear.png" alt="">
-</p>
-<p align="center">
   <img src="/assets/images/Fairy.png" alt="">
 </p>
 <p align="center">
@@ -43,6 +40,9 @@ This is a project that is being worked on as a Senior Project for the senior cla
 </p>
 <p align="center">
   <img src="/assets/images/CEO.jpg" alt="">
+</p>
+<p align="center">
+  <img src="/assets/images/WolfBear.png" alt="">
 </p>
 
 ---
